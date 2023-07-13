@@ -21,8 +21,8 @@ const int WaterValue = 400;  //you need to replace this value with Value_2
 int soilMoistureValue = 0;
 int soilmoisturepercent=0;
 
-const char* ssid = "WG_Fit_GmbH_EXT";   // your network SSID (name) 
-const char* password = "Liebdochwenduwillst18";   // your network password
+const char* ssid = "******";   // your network SSID (name) 
+const char* password = "*******";   // your network password
 
 WiFiClient  client;
 
